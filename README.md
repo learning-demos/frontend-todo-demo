@@ -1,2 +1,15 @@
-# frontend-todo-demo
-a todo demo that use react and ant design
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
